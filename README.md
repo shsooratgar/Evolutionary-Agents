@@ -56,7 +56,6 @@ Special thanks to:
 
 ## 📌 Notes
 
-- This project was created as part of a university assignment in **Computational Intelligence**.
 - Feel free to fork, adapt, or expand upon the evolutionary logic or game design!
 
 ---
